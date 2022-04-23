@@ -1,0 +1,18 @@
+{
+  "name": "personal_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "hanii",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express.js": "^1.0.0",
+    "firebase": "^9.6.11",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15"
+  }
+}
